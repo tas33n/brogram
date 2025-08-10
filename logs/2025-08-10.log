@@ -1964,3 +1964,27 @@
 {"t":"2025-08-10T18:29:15.490Z","level":"error","msg":"auto_scroll_error","meta":{"error":"Error: Attempted to use detached Frame '9D2691FF0788CA95D6738A3C202C499E'.\n    at CdpFrame.<anonymous> (file:///G:/Bro%20insta%20-%20Automation/node_modules/puppeteer-core/lib/esm/puppeteer/util/decorators.js:99:23)\n    at CdpPage.evaluate (file:///G:/Bro%20insta%20-%20Automation/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:818:43)\n    at scrollToNextActionBar (G:\\Bro insta - Automation\\src\\lib\\autoScroll.js:36:15)\n    at G:\\Bro insta - Automation\\src\\lib\\autoScroll.js:113:17"}}
 {"t":"2025-08-10T18:29:17.005Z","level":"error","msg":"auto_scroll_error","meta":{"error":"Error: Attempted to use detached Frame '9D2691FF0788CA95D6738A3C202C499E'.\n    at CdpFrame.<anonymous> (file:///G:/Bro%20insta%20-%20Automation/node_modules/puppeteer-core/lib/esm/puppeteer/util/decorators.js:99:23)\n    at CdpPage.evaluate (file:///G:/Bro%20insta%20-%20Automation/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:818:43)\n    at scrollToNextActionBar (G:\\Bro insta - Automation\\src\\lib\\autoScroll.js:36:15)\n    at G:\\Bro insta - Automation\\src\\lib\\autoScroll.js:113:17"}}
 {"t":"2025-08-10T18:29:18.079Z","level":"info","msg":"shutdown_cleanup_begin","meta":null}
+{"t":"2025-08-10T18:33:35.087Z","level":"info","msg":"http_listening","meta":{"port":3000}}
+{"t":"2025-08-10T18:33:35.642Z","level":"info","msg":"browser_launched","meta":{"headless":false}}
+{"t":"2025-08-10T18:33:35.674Z","level":"info","msg":"reusing_default_page","meta":null}
+{"t":"2025-08-10T18:33:35.679Z","level":"info","msg":"","meta":null}
+{"t":"2025-08-10T18:33:35.679Z","level":"info","msg":"Console controls:","meta":null}
+{"t":"2025-08-10T18:33:35.680Z","level":"info","msg":"  s            toggle auto-scroll","meta":null}
+{"t":"2025-08-10T18:33:35.680Z","level":"info","msg":"  j / space    next post (center action bar)","meta":null}
+{"t":"2025-08-10T18:33:35.681Z","level":"info","msg":"  k            previous post (center action bar)","meta":null}
+{"t":"2025-08-10T18:33:35.682Z","level":"info","msg":"  g            re-center nearest action bar","meta":null}
+{"t":"2025-08-10T18:33:35.682Z","level":"info","msg":"  + / =        faster scroll (shorter delay)","meta":null}
+{"t":"2025-08-10T18:33:35.683Z","level":"info","msg":"  -            slower scroll (longer delay)","meta":null}
+{"t":"2025-08-10T18:33:35.683Z","level":"info","msg":"  l            toggle LIKE actions","meta":null}
+{"t":"2025-08-10T18:33:35.683Z","level":"info","msg":"  c            toggle COMMENT actions","meta":null}
+{"t":"2025-08-10T18:33:35.684Z","level":"info","msg":"  r            open Reels","meta":null}
+{"t":"2025-08-10T18:33:35.685Z","level":"info","msg":"  h            show help","meta":null}
+{"t":"2025-08-10T18:33:35.685Z","level":"info","msg":"  q / Ctrl+C   quit","meta":null}
+{"t":"2025-08-10T18:33:35.685Z","level":"info","msg":"","meta":null}
+{"t":"2025-08-10T18:33:35.685Z","level":"info","msg":"State: scroll=on delay=1500ms like=on comment=on","meta":null}
+{"t":"2025-08-10T18:33:35.686Z","level":"warn","msg":"cookies_missing","meta":null}
+{"t":"2025-08-10T18:33:37.808Z","level":"info","msg":"auth_check","meta":{"cookieValid":false,"webValid":false,"ok":false,"username":null}}
+{"t":"2025-08-10T18:33:37.808Z","level":"error","msg":"auth_failed_mandatory","meta":{"ok":false,"cookieValid":false,"webValid":false,"username":null}}
+{"t":"2025-08-10T18:33:37.808Z","level":"warn","msg":"auth_failed_debug_wait","meta":{"waitMs":60000}}
+{"t":"2025-08-10T18:33:46.815Z","level":"info","msg":"shutdown_requested_ctrl_c","meta":null}
+{"t":"2025-08-10T18:33:46.815Z","level":"info","msg":"shutdown_signal","meta":{}}
