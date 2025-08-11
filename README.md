@@ -63,7 +63,7 @@
 
 ```bash
 # 1) Clone
-git clone https://github.com/your-user/BroGram.git
+git clone https://github.com/tas33n/BroGram.git
 cd BroGram
 
 # 2) Install
